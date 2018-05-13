@@ -205,7 +205,7 @@
   "devDependencies": {
     "ava": "0.25.0",
     "babel-cli": "6.26.0",
-    "babel-core": "6.26.0",
+    "babel-core": "6.26.3",
     "babel-loader": "7.1.2",
     "babel-preset-babili": "0.1.4",
     "babel-preset-react": "6.24.1",
