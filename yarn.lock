@@ -354,9 +354,9 @@ assert@^1.1.1:
   dependencies:
     util "0.10.3"
 
-ast-types@0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.10.1.tgz#f52fca9715579a14f841d67d7f8d25432ab6a3dd"
+ast-types@0.11.3:
+  version "0.11.3"
+  resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.11.3.tgz#c20757fe72ee71278ea0ff3d87e5c2ca30d9edf8"
 
 async-each@^1.0.0:
   version "1.0.1"
@@ -5380,11 +5380,11 @@ readdirp@^2.0.0:
     readable-stream "^2.0.2"
     set-immediate-shim "^1.0.1"
 
-recast@0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/recast/-/recast-0.13.0.tgz#a343a394a37d24668d700f88ed04b8d2c314d40d"
+recast@0.14.7:
+  version "0.14.7"
+  resolved "https://registry.yarnpkg.com/recast/-/recast-0.14.7.tgz#4f1497c2b5826d42a66e8e3c9d80c512983ff61d"
   dependencies:
-    ast-types "0.10.1"
+    ast-types "0.11.3"
     esprima "~4.0.0"
     private "~0.1.5"
     source-map "~0.6.1"
