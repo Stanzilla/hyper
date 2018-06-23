@@ -30,7 +30,7 @@
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "semver": "5.5.0",
-    "shell-env": "0.3.0",
+    "shell-env": "2.0.1",
     "uuid": "3.2.1",
     "winreg": "1.2.4"
   }
