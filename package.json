@@ -173,7 +173,7 @@
   },
   "dependencies": {
     "args": "3.0.8",
-    "chalk": "2.3.2",
+    "chalk": "2.4.1",
     "color": "2.0.1",
     "columnify": "1.5.4",
     "css-loader": "0.28.11",
