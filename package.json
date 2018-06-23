@@ -174,7 +174,7 @@
   "dependencies": {
     "args": "3.0.8",
     "chalk": "2.3.2",
-    "color": "2.0.1",
+    "color": "3.0.0",
     "columnify": "1.5.4",
     "css-loader": "0.28.11",
     "got": "7.1.0",
